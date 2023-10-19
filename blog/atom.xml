@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fzuppa.github.io/great-expectations-proposal/blog</id>
-    <title>Great Expectations Blog</title>
+    <title>Great Expectations Proposal Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fzuppa.github.io/great-expectations-proposal/blog"/>
-    <subtitle>Great Expectations Blog</subtitle>
+    <subtitle>Great Expectations Proposal Blog</subtitle>
     <icon>https://fzuppa.github.io/great-expectations-proposal/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
