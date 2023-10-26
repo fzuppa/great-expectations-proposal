@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8465],{5042:e=>{e.exports=JSON.parse('[{"label":"Company","permalink":"/great-expectations-proposal/docs/tags/company","count":1},{"label":"Team","permalink":"/great-expectations-proposal/docs/tags/team","count":1}]')}}]);
